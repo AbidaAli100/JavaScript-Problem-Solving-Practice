@@ -1,0 +1,44 @@
+body{
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #d9dc9f;
+    flex-direction: column;
+}
+
+h1{
+    font-size: 5em;
+    font-family: fantasy;
+}
+
+button {
+    padding: 10px 3em;
+    font-size: 2em;
+    font-family: sans-serif;
+    border: none;
+    border-radius: 10px;
+    box-shadow: 1px 1px 5px 1px black;
+    cursor: pointer;
+    transition: all 0.5s;
+    margin-bottom: 1em;
+}
+.red{
+    background-color: rgb(204, 20, 20);
+}
+
+.blue{
+    background-color: rgb(32, 32, 102);
+}
+.green{
+    background-color: green;
+}
+
+
+button:focus{
+    outline: none;
+}
+
+button:active{
+    background-color: black;
+}
