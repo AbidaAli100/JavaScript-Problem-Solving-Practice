@@ -7,7 +7,7 @@ console.log(Numb);
 
 
 //string Constant
-const string = (" JavaScript Variable");
+const string = (" This is JavaScript Variable");
 console.log(string);
  
 
