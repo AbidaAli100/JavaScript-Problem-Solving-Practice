@@ -1,5 +1,5 @@
 // output of following:
-
+//answer will be print on console.log
 
 let x = 5;
 let y = 10;
@@ -7,7 +7,7 @@ let z = 15;
 
 //x + y  -- to add
 let Sum = (x + y);
-console.log(Sum); //answer will be print on console.log
+console.log(Sum); 
 
 // y - z -- for difference 
 let minus = (y - z);
