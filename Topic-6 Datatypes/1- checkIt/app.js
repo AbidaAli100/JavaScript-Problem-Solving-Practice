@@ -13,8 +13,8 @@ console.log(c); //typeof false id "boolean"
 let d ="TechKaro"; // checking string without quotation marks 
 console.log(d); //typeof "d" is "string"
 
-// let e = TechKaro ; 
-// console.log(e);
+let e = TechKaro ; 
+console.log(e);
 /*removing quotation marks from  the string gives an error:
 "Cannot access 'e' "..... because the value without quotation marks
 is not a string */
