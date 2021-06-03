@@ -64,7 +64,7 @@ console.log(x);  // true
 
 // 2-- What happens if you write " 4<=5?"
 
-4 <= 5;     // less than or is equal to
+4 <= 5;     // less than or is equal to --
 // the answer will be true because  4 is les than 5
 
 
