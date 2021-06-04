@@ -6,6 +6,19 @@
 */
 
 
-for (let i = 0; i < 50; i++){
+for (let i = 0; i < 50; i++) {
     console.log("CLAP!");
+}
+
+
+/*
+    Create a for loop.
+
+    1- Take the loop iterating variable as i.
+    2- The loop should start from 0 and end till 200.
+    3- Print numbers from 0-199.
+*/
+
+for (i = 0; i < 200; i++){
+    console.log(i);
 }
