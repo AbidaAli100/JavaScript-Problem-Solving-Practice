@@ -11,4 +11,3 @@ function Double(numb) {
   let answer = numb * 2;
   return answer;
 }
-console.log(Double);
