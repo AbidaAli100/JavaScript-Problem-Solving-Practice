@@ -11,4 +11,4 @@ let answer = (num1 + num2);
 console.log(answer);
 return answer;
 }
-AddTwoNumbers(12,4);
+AddTwoNumbers(12,4); //console.log = 16
