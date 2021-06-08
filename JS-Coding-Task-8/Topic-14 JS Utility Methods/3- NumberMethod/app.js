@@ -6,6 +6,6 @@
 var age = "44";
 console.log(typeof age); // string
 
-let ageNumb = parseInt("44");
+let ageNumb = Number("44");
 console.log(typeof ageNumb); //number
 
