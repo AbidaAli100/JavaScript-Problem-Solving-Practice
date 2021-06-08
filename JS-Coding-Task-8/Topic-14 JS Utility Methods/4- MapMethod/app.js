@@ -7,5 +7,8 @@
 */
 
 let agesArray = [12, 45, 56, 4]
-var a = agesArray.map(Math.sqrt)
+var a = agesArray.map(mapFunction);
+function mapFunction(numb) {
+   return numb * 10;
+}
 console.log(a);
