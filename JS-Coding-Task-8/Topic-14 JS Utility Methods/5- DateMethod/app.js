@@ -12,35 +12,3 @@ function mapFunction(numb) {
    return numb * 10;
 }
 console.log(a);
-
-
-//problem 2
-let usersData = [
-
-   {
-      name: " Saeed",
-
-      lastName: "Ahmad",
-
-      school: "UoT",
-
-      profession: "engineer",
-   },
-
-   {
-      name: "Ali",
-
-      lastName: "Khan",
-
-      school: "TUM",
-
-      profession: "researcher",
-
-   }
-];
-
-// Use map method to print each value in a table
-
-usersData.map(function (value) {
-   console.log(value);
-});
