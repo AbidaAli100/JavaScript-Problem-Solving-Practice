@@ -3,3 +3,6 @@
 let height = 7.534564;
 let a = (Math.ceil(height));
 console.log(a);
+
+let b = (Math.floor(height));
+console.log(b);
