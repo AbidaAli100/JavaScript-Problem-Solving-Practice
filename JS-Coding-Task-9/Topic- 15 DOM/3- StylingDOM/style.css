@@ -1,0 +1,16 @@
+
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.div-1{
+    height: 150px;
+    width: 150px;
+    align-items: center;
+}
+
+.change-color{
+   background-color: rgb(25, 129, 34);
+}
